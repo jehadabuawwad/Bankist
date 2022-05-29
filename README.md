@@ -35,6 +35,27 @@ $ git clone https://github.com/jehadabuawwad/Bankist.git
 
 Once downloaded, activate you can run the server
 
+You can use one of these accouts for testing:
+
+- account 1
+
+  - username : js
+  - password : 1111
+
+- account 2
+
+  - username : jd
+  - password : 2222
+
+- account 3
+
+  - username : stw
+  - password : 3333
+
+- account 4
+  - username : ss
+  - password : 4444
+
 ---
 
 ## Change Log
